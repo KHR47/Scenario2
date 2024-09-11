@@ -47,7 +47,7 @@ namespace Scenario2
 
         public virtual void ShowInfo()
         {
-            Console.WriteLine($"ID: {Eid}");
+            Console.WriteLine($"ID: {aaaEid}");
             Console.WriteLine($"Name: {Name}");
             Console.WriteLine($"Salary: {Salary:C}");
             Console.WriteLine($"Joining Date: {JoinDate}");
