@@ -50,7 +50,7 @@ namespace Scenario2._1
    
         public void ShowInfo()
         {
-            Console.WriteLine(" Name: " + base.getName());
+            Console.WriteLine("hiii Name: " + base.getName());
             Console.WriteLine(" Id: " + base.getId());
             Console.WriteLine(" Salary: " + base.getSalary());
             Console.WriteLine("Joining date: " + base.getJoinDate());
