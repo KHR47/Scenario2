@@ -98,9 +98,9 @@ namespace Scenario2._1
             FullTime fulltime = new FullTime("11255-8", "Khalid", 58000, "18-11-2019", 5000);  
             PartTime parttime = new PartTime("84855-66", "Rayhan", 88000, "27-09-2022", 2300); 
             fulltime.ShowInfo(); 
-            fulltime.GrossIncome(); 
+            //fulltime.GrossIncome(); 
             parttime.ShowInfo();
-            parttime.GrossIncome();
+            //parttime.GrossIncome();
         }
     }
 }
